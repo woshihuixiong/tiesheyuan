@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monitor-dept/monitor-dept.iml" filepath="$PROJECT_DIR$/monitor-dept/monitor-dept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-user/monitor-user.iml" filepath="$PROJECT_DIR$/monitor-user/monitor-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tiesheyuan.iml" filepath="$PROJECT_DIR$/.idea/tiesheyuan.iml" />
+    </modules>
+  </component>
+</project>
